@@ -1,0 +1,602 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <!-- Basic -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">   
+   
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+ 
+     <!-- Site Metas -->
+    <title>GoodWEB Solution - Everything for the web</title>  
+    <meta name="keywords" content="Hosting, websites, database, MySQL, e-shop, landpage">
+    <meta name="description" content="Hosting for everyone. Ordinary hosting service and offer suggestions. Creation of websites.">
+    <meta name="author" content="GoodWEB Solution">
+
+    <!-- Site Icons -->
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!-- Site CSS -->
+    <link rel="stylesheet" href="style.css">
+    <!-- Responsive CSS -->
+    <link rel="stylesheet" href="css/responsive.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/custom.css">
+	<!-- Clarity tracking code for https://www.goodwebsolution.eu/ -->
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "a0zul49f7a");
+</script>
+
+    <!-- Modernizer for Portfolio -->
+    <script src="js/modernizer.js"></script>
+
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+	
+<script data-host="https://www.traffic-submit.com/public" data-dnt="false" src="https://www.traffic-submit.com/public/js/script.js" id="ZwSg9rf6GA" async defer></script>
+
+</head>
+<body>
+
+    <!-- LOADER -->
+    <div id="preloader">
+        <div class="loader">
+			<div class="loader__bar"></div>
+			<div class="loader__bar"></div>
+			<div class="loader__bar"></div>
+			<div class="loader__bar"></div>
+			<div class="loader__bar"></div>
+			<div class="loader__ball"></div>
+		</div>
+    </div><!-- end loader -->
+    <!-- END LOADER -->
+    
+	<div class="top-bar">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-md-6 col-sm-6">
+					<div class="left-top">
+						<div class="email-box">
+							<a href="#"><i class="fa fa-envelope-o" aria-hidden="true"></i> info@goodwebsolution.eu</a>
+						</div>
+						<div class="phone-box">
+							<a href="tel:+372 822 30010"><i class="fa fa-phone" aria-hidden="true"></i> +372 822 30010</a>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 col-sm-6">
+					<div class="right-top">
+						<div class="social-box">
+							<ul>
+								<li><a href="index.php"><img src="images/flags/IT.jpg" width="18" height="12" alt="" title="" /></a></li>
+							<ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+    <header class="header header_style_01">
+        <nav class="megamenu navbar navbar-default">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="index.html"><img src="images/logos/logo.png" alt="image"></a>
+                </div>
+                <div id="navbar" class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a class="active" href="index.html">Home</a></li>
+                        <li><a href="services.html">Our Services</a></li>
+                        <li><a href="features.html">Features</a></li>
+                        <li><a href="pricing.html">Pricing</a></li>
+						<li><a href="portfolio.html">Portfolio</a></li>
+						<li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+	
+	<div class="slider-area">
+		<div class="slider-wrapper owl-carousel">
+			<div class="slider-item text-center home-one-slider-otem slider-item-four slider-bg-one">
+				<div class="container">
+					<div class="row">
+						<div class="slider-content-area">
+							<div class="slide-text">
+								<h1 class="homepage-three-title">Outstanding <span> Web Design </span> Services</h1>
+								<h2>We at GoodWEB Solution, we create turnkey solutions to your ideas.<br>And let's change the page! </h2>
+								<div class="slider-content-btn">
+									
+									<a class="button btn btn-light btn-radius btn-brd" href="contact.html">Contact</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="slider-item text-center home-one-slider-otem slider-item-four slider-bg-two">
+				<div class="container">
+					<div class="row">
+						<div class="slider-content-area">
+							<div class="slide-text">
+								<h1 class="homepage-three-title">Outstanding <span> Web Design </span> Services</h1>
+								<h2>We take care of everything, from the creation of the site,<br>to the registration of the domain! </h2>
+								<div class="slider-content-btn">
+									
+									<a class="button btn btn-light btn-radius btn-brd" href="contact.html">Contact</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="slider-item text-center home-one-slider-otem slider-item-four slider-bg-three">
+				<div class="container">
+					<div class="row">
+						<div class="slider-content-area">
+							<div class="slide-text">
+								<h1 class="homepage-three-title">Outstanding <span> Web Design </span> Services</h1>
+								<h2>All the space you need,<br>at an affordable price! </h2>
+								<div class="slider-content-btn">
+									
+									<a class="button btn btn-light btn-radius btn-brd" href="contact.html">Contact</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+    <div id="about" class="section wb">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="message-box">
+                        <h4>About Us</h4>
+                        <h2>Welcome to GoodWEB Solution</h2>
+                        <p class="lead">Today it is important to be found on the internet, offering unique information about your work.</p>
+
+                        <p> Form, rationality, captivating disposition are essential qualities to hold back the curiosity of the potential customer. 
+						All this must be done by providing for any increase in the information that can be offered. </p>
+
+                        <a href="services.html" class="btn btn-light btn-radius btn-brd grd1">Learn More</a>
+                    </div><!-- end messagebox -->
+                </div><!-- end col -->
+
+                <div class="col-md-6">
+                    <div class="post-media wow fadeIn">
+                        <img src="uploads/analisi.jpg" alt="" class="img-responsive img-rounded">
+                        <!--<a href="http://www.youtube.com/watch?v=nrJtHemSPW4" data-rel="prettyPhoto[gal]" class="playbutton"><i class="flaticon-play-button"></i></a>-->
+                    </div><!-- end media -->
+                </div><!-- end col -->
+            </div><!-- end row -->
+
+            <hr class="hr1"> 
+
+            <div class="row">
+				<div class="col-md-6">
+                    <div class="post-media wow fadeIn">
+                        <img src="uploads/impostazione.jpg" alt="" class="img-responsive img-rounded">
+                    </div><!-- end media -->
+                </div><!-- end col -->
+				
+                <div class="col-md-6">
+                    <div class="message-box">
+                        <h4>Who We are</h4>
+                        <h2>We Are GoodWEB Solution</h2>
+                        <p class="lead">We provide a wide range of tools and resources to boost your hosting performance and experience. From domains, website backups, SSLs, malware detection and removal, to marketing services. </p>
+
+                        <p> We even provide hands-on services for full website design, social media optimizations, site migrations, and local listing promotion. Contact us to learn more about all the tools and services available to make your website the best it can be. </p>
+
+                        <a href="services.html" class="btn btn-light btn-radius btn-brd grd1">Learn More</a>
+                    </div><!-- end messagebox -->
+                </div><!-- end col -->
+            </div><!-- end row -->
+        </div><!-- end container -->
+    </div><!-- end section -->
+	
+	<div class="parallax section parallax-off" data-stellar-background-ratio="0.9" style="background-image:url('uploads/parallax_04.jpg');">
+        <div class="container">
+            <div class="row text-center stat-wrap">
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <span data-scroll class="global-radius icon_wrap effect-1"><i class="flaticon-briefcase"></i></span>
+                    <p class="stat_count">120</p>
+                    <h3>Completed Projects</h3>
+                </div><!-- end col -->
+
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <span data-scroll class="global-radius icon_wrap effect-1"><i class="flaticon-happy"></i></span>
+                    <p class="stat_count">321</p>
+                    <h3>Happy Clients</h3>
+                </div><!-- end col -->
+
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <span data-scroll class="global-radius icon_wrap effect-1"><i class="flaticon-idea"></i></span>
+                    <p class="stat_count">378</p>
+                    <h3>Customer Services</h3>
+                </div><!-- end col -->
+
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <span data-scroll class="global-radius icon_wrap effect-1"><i class="flaticon-customer-service"></i></span>
+                    <p class="stat_count">430</p>
+                    <h3>Answered Questions</h3>
+                </div><!-- end col -->
+            </div><!-- end row -->
+        </div><!-- end container -->
+    </div><!-- end section -->
+
+    <div id="services" class="parallax section lb">
+        <div class="container">
+            <div class="section-title text-center">
+                <h3>Our Service</h3>
+                <p class="lead">Our services provide unlimited solutions to all your business needs. In the installation package we prepare search engine optimization, we provide corporate identity and graphic design services.</p>
+            </div><!-- end title -->
+
+            <div class="owl-services owl-carousel owl-theme">
+                <div class="service-widget">
+                    <div class="post-media wow fadeIn">
+                        <a href="uploads/service_01.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
+                        <img src="uploads/service_01.jpg" alt="" class="img-responsive img-rounded">
+                    </div>
+					<div class="service-dit">
+						<h3>Web Hosting</h3>
+						<p>Getting started with our GoodWEB Solution hosting products is quick and easy.</p>
+					</div>
+                </div>
+                <!-- end service -->
+
+                <div class="service-widget">
+                    <div class="post-media wow fadeIn">
+                        <a href="uploads/service_02.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
+                        <img src="uploads/service_02.jpg" alt="" class="img-responsive img-rounded">
+                    </div>
+					<div class="service-dit">
+						<h3>Web UI Kit Design</h3>
+						<p>Custom design and colors are essential to be recognized.</p>
+					</div>
+                </div>
+                <!-- end service -->
+
+                <div class="service-widget">
+                    <div class="post-media wow fadeIn">
+                        <a href="uploads/service_03.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
+                        <img src="uploads/service_03.jpg" alt="" class="img-responsive img-rounded">
+                    </div>
+					<div class="service-dit">
+						<h3>Mobile Optimization</h3>
+						<p>The site automatically adapts to the smartphone screen allowing for easy reading.</p>
+					</div>
+                </div>
+                <!-- end service -->
+
+                <div class="service-widget">
+                    <div class="post-media wow fadeIn">
+                        <a href="uploads/service_04.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
+                        <img src="uploads/service_04.jpg" alt="" class="img-responsive img-rounded">
+                    </div>
+					<div class="service-dit">
+						<h3>All browsers</h3>
+						<p>Our works are compatible with all browsers, so anyone can open and read your site..</p>
+					</div>
+                </div>
+                <!-- end service -->
+            </div><!-- end row -->
+
+            <hr class="hr1">
+
+            <div class="text-center">
+                <a data-scroll href="pricing.html" class="btn btn-light btn-radius btn-brd">Look at some solutions</a>
+            </div>
+        </div><!-- end container -->
+    </div><!-- end section -->
+
+    <div class="parallax section noover" data-stellar-background-ratio="0.7" style="background-image:url('uploads/parallax_05.png');">
+        <div class="container">
+            <div class="row text-center">
+                <div class="col-md-6">
+                    <div class="customwidget text-left">
+                        <h1>Beautiful Websites</h1>
+                        <p>Full access control of the background parallax effects, <br>change your awesome background elements and edit colors from style.css or colors.css</p>
+                        <ul class="list-inline">
+                            <li><i class="fa fa-check"></i> Custom Sections</li>
+                            <li><i class="fa fa-check"></i> Parallax's</li>
+                            <li><i class="fa fa-check"></i> Icons & PSD</li>
+                            <li><i class="fa fa-check"></i> Limitless Colors</li>
+                        </ul><!-- end list -->
+                        <a href="#services" data-scroll class="btn btn-light btn-radius btn-brd">Learn More</a>
+                    </div>
+                </div><!-- end col -->
+				<div class="col-md-6">
+                    <div class="text-center image-center hidden-sm hidden-xs">
+                        <img src="uploads/device_03.png" alt="" class="img-responsive wow fadeInUp">
+                    </div>
+                </div>
+            </div><!-- end row -->
+        </div><!-- end container -->
+    </div><!-- end section -->
+	
+    <div id="features" class="section lb">
+        <div class="container">
+            <div class="section-title text-center">
+                <h3>Features & Overviews</h3>
+                <p class="lead">Some peculiarities that will allow you to better manage your site and connectivity with customers.</p>
+            </div><!-- end title -->
+
+            <div class="row">
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <ul class="features-left">
+                        <li class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.2s">
+                            <i class="flaticon-mail"></i>
+                            <div class="fl-inner">
+                                <h4>Mail management</h4>
+                                <p>Different mailboxes for each section of your company. </p>
+                            </div>
+                        </li>
+                        <li class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
+                            <i class="flaticon-windows"></i>
+                            <div class="fl-inner">
+                                <h4>Browser Compatible</h4>
+                                <p>Compatibility with all browsers, without problems of incorrect display. </p>
+                            </div>
+                        </li>
+                        <li class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.4s">
+                            <i class="flaticon-price-tag"></i>
+                            <div class="fl-inner">
+                                <h4>eCommerce Ready</h4>
+                                <p>If you want to network your shop, we give you the complete solution. </p>
+                            </div>
+                        </li>
+                        <li class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s">
+                            <i class="flaticon-new-file"></i>
+                            <div class="fl-inner">
+                                <h4>Easy to Customize</h4>
+                                <p>You will always be able to add or remove pages, photos or texts very easily. </p>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-md-4 hidden-xs hidden-sm">
+                    <img src="uploads/ipad.png" class="img-center img-responsive" alt="">
+                </div>
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <ul class="features-right">
+                        <li class="wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.2s">
+                            <i class="flaticon-pantone"></i>
+                            <div class="fr-inner">
+                                <h4>Limitless Colors</h4>
+                                <p>Choose the color of your company or the color you like best and we transfer it to your site. </p>
+                            </div>
+                        </li>
+                        <li class="wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s">
+                            <i class="flaticon-cloud-computing"></i>
+                            <div class="fr-inner">
+                                <h4>Lifetime Update</h4>
+                                <p>You can entrust us with checking for updates. </p>
+                            </div>
+                        </li>
+                        <li class="wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.4s">
+                            <i class="flaticon-line-graph"></i>
+                            <div class="fr-inner">
+                                <h4>SEO Friendly</h4>
+                                <p>The site will be found easily on the Internet and will climb the ranking of the most visited sites. </p>
+                            </div>
+                        </li>
+                        <li class="wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
+                            <i class="flaticon-coding"></i>
+                            <div class="fr-inner">
+                                <h4>Simple Clean Code</h4>
+                                <p>Well structured code for fast page loading. </p>
+                            </div>
+                        </li>
+                    </ul>
+                </div><!-- end col -->
+            </div><!-- end row -->
+        </div><!-- end container -->
+    </div><!-- end section -->
+
+    <div id="testimonials" class="parallax section db parallax-off" style="background-image:url('uploads/parallax_03.jpg');">
+        <div class="container">
+            <div class="section-title text-center">
+                <h3>Testimonials</h3>
+                <p class="lead">We thanks for all our awesome testimonials! There are hundreds of our happy customers! <br>Let's see what others say about GoodWEB Solution website service!</p>
+            </div><!-- end title -->
+
+            <div class="row">
+                <div class="col-md-12 col-sm-12">
+                    <div class="testi-carousel owl-carousel owl-theme">
+                        <div class="testimonial clearfix">
+                            <div class="desc">
+                                <h3><i class="fa fa-quote-left"></i> Great & Talented Team!</h3>
+                                <p class="lead">The one page site is well structured. It allows us to show our products and receive bookings. </p>
+                            </div>
+                            <div class="testi-meta">
+                                <img src="uploads/testi_03.png" alt="" class="img-responsive alignleft">
+                                <h4>Valeria Mercuri <small>- Les Folies</small></h4>
+                            </div>
+                            <!-- end testi-meta -->
+                        </div>
+                        <!-- end testimonial -->
+                        <div class="testimonial clearfix">
+                            <div class="desc">
+                                <h3><i class="fa fa-quote-left"></i> Wonderful Support!</h3>
+                                <p class="lead">They have got my project on time with the competition with a sed highly skilled, and experienced & professional team.</p>
+                            </div>
+                            <div class="testi-meta">
+                                <img src="uploads/testi_01.png" alt="" class="img-responsive alignleft">
+                                <h4>James Fernando <small>- Manager of Racer</small></h4>
+                            </div>
+                            <!-- end testi-meta -->
+                        </div>
+                        <!-- end testimonial -->
+                        <div class="testimonial clearfix">
+                            <div class="desc">
+                                <h3><i class="fa fa-quote-left"></i> Awesome Services!</h3>
+                                <p class="lead">Explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you completed.</p>
+                            </div>
+                            <div class="testi-meta">
+                                <img src="uploads/testi_02.png" alt="" class="img-responsive alignleft">
+                                <h4>Jacques Philips <small>- Designer</small></h4>
+                            </div>
+                            <!-- end testi-meta -->
+                        </div>
+                        <!-- end testimonial -->
+                        <div class="testimonial clearfix">
+                            <div class="desc">
+                                <h3><i class="fa fa-quote-left"></i> Great & Talented Team!</h3>
+                                <p class="lead">The one page site is well structured. It allows us to show our products and receive bookings. </p>
+                            </div>
+                            <div class="testi-meta">
+                                <img src="uploads/testi_03.png" alt="" class="img-responsive alignleft">
+                                <h4>Valeria Mercuri <small>- Les Folies</small></h4>
+                            </div>
+                            <!-- end testi-meta -->
+                        </div><!-- end testimonial -->
+                        <div class="testimonial clearfix">
+                            <div class="desc">
+                                <h3><i class="fa fa-quote-left"></i> Wonderful Support!</h3>
+                                <p class="lead">They have got my project on time with the competition with a sed highly skilled, and experienced & professional team.</p>
+                            </div>
+                            <div class="testi-meta">
+                                <img src="uploads/testi_01.png" alt="" class="img-responsive alignleft">
+                                <h4>James Fernando <small>- Manager of Racer</small></h4>
+                            </div>
+                            <!-- end testi-meta -->
+                        </div>
+                        <!-- end testimonial -->
+                        <div class="testimonial clearfix">
+                            <div class="desc">
+                                <h3><i class="fa fa-quote-left"></i> Awesome Services!</h3>
+                                <p class="lead">Explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you completed.</p>
+                            </div>
+                            <div class="testi-meta">
+                                <img src="uploads/testi_02.png" alt="" class="img-responsive alignleft">
+                                <h4>Jacques Philips <small>- Designer</small></h4>
+                            </div>
+                            <!-- end testi-meta -->
+                        </div>
+                        <!-- end testimonial -->
+						
+                    </div><!-- end carousel -->
+                </div><!-- end col -->
+            </div><!-- end row -->
+
+            <hr class="hr1">
+
+            <div class="row logos">
+                <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp">
+                    <a href="https://www.investinggroup.org/" target="_blank"><img src="uploads/logo_InvestinGGroup.png" alt="Logo InvestinGGroup" title="Logo InvestinGGroup" class="img-repsonsive"></a>
+                </div>
+                <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp">
+                    <a href="https://www.investinggroup.org/store/" target="_blank"><img src="uploads/logo_Store.png" alt="Logo Store InvestinGGroup" title="Logo Store InvestinGGroup" class="img-repsonsive"></a>
+                </div>
+                <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp">
+                    <a href="https://www.bvtbanco.com/" target="_blank"><img src="uploads/logo_BVTBanco.png" alt="Logo BVT Banco Ltd." title="Logo BVT Banco Ltd." class="img-repsonsive"></a>
+                </div>
+                <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp">
+                    <a href="https://www.lesfolies-loungetorino.com/" target="_blank"><img src="uploads/logo_LesFolies.png" alt="Logo Les Folies Lounge Bar Torino" title="Logo Les Folies Lounge Bar Torino" class="img-repsonsive"></a>
+                </div>
+                <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp">
+                    <img src="uploads/logo_CitGroup.png" alt="Logo Cit Group" title="Logo Cit Group" class="img-repsonsive">
+                </div>
+                <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp">
+                    <a href="https://www.aiutoonlus-aps.org/" target="_blank"><img src="uploads/logo_AiutoOrg.png" alt="Logo Aiuto Onlus Org." title="Logo Aiuto Onlus Org." class="img-repsonsive"></a>
+                </div>
+                <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp">
+                    <a href="https://www.serenity-ok.eu/" target="_blank"><img src="uploads/logo_Serenity-ok.png" alt="Logo Serenity Ok" title="Logo Serenity Ok" class="img-repsonsive"></a>
+                </div>
+            </div><!-- end row -->
+
+        </div><!-- end container -->
+    </div><!-- end section -->
+
+    <footer class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-sm-8 col-xs-12">
+                    <div class="widget clearfix">
+                        <div class="widget-title">
+                            <img src="images/logos/logo-2.png" alt="" />
+                        </div>
+                        <p> Association of freelancers who work in the programming, creation, customization of websites, archives, e-shopping.</p>
+                        <p>Let us know your needs, we will be happy to put our experience and our skills at your disposal.</p>
+                        <p><font size="1">Copyright Disclaimer<br>
+						   Unless otherwise indicated, the reproduction of material posted on the GoodWeb Solution website and reproduction of 
+						   photographs for which GoodWeb Solution holds the copyright is authorised for private use and for informational and 
+						   educational uses relating to GoodWeb Solution's work. This authorisation is subject to the condition that the source 
+						   is indicated and no charge made for reproduction.<br>
+						   Persons wishing to make some other use than those specified above, including commercial use of information and text posted 
+						   on these sites, are requested to apply for prior written authorisation to GoodWeb Solution.<br>
+						   GoodWeb Solution may use creative materials on its website produced by authors via distribution websites known as photobanks. 
+						   GoodWeb Solution owns the right to use the materials without crediting the author unless otherwise required by the terms and 
+						   conditions of a photobank or regulations operating in the EU/EEA and national laws.</font></p>
+					</div><!-- end clearfix -->
+                </div><!-- end col -->
+
+				<div class="col-md-4 col-sm-4 col-xs-12">
+                    <div class="widget clearfix">
+                        <div class="widget-title">
+                            <h3>Pages</h3>
+                        </div>
+
+                        <ul class="footer-links hov">
+                            <li><a href="#">Home <span class="icon icon-arrow-right2"></span></a></li>
+							<li><a href="services.html">Our Services <span class="icon icon-arrow-right2"></span></a></li>
+							<li><a href="features.html">Features <span class="icon icon-arrow-right2"></span></a></li>
+							<li><a href="pricing.html">Pricing <span class="icon icon-arrow-right2"></span></a></li>
+							<li><a href="portfolio.html">Portfolio <span class="icon icon-arrow-right2"></span></a></li>
+							<li><a href="contact.html">Contact <span class="icon icon-arrow-right2"></span></a></li>
+                        </ul><!-- end links -->
+                    </div><!-- end clearfix -->
+                </div><!-- end col -->
+            </div><!-- end row -->
+        </div><!-- end container -->
+    </footer><!-- end footer -->
+
+    <div class="copyrights">
+        <div class="container">
+            <div class="footer-distributed">
+                <div class="footer-left">                   
+                    <p class="footer-company-name">
+					 <script>
+				  	  copyright = new Date();
+					  aggiorna = copyright.getFullYear();
+					  document.write("Copyright © 2021 - " + aggiorna + " GoodWEB Solution - All Rights Reserved.");
+					 </script>
+					</p>
+                </div>
+            </div>
+        </div><!-- end container -->
+    </div><!-- end copyrights -->
+
+    <a href="#" id="scroll-to-top" class="dmtop global-radius"><i class="fa fa-angle-up"></i></a>
+
+    <!-- ALL JS FILES -->
+    <script src="js/all.js"></script>
+    <!-- ALL PLUGINS -->
+    <script src="js/custom.js"></script>
+    <script src="js/portfolio.js"></script>
+    <script src="js/hoverdir.js"></script>    
+	
+	<script type="text/javascript">var nibirumail_advice_text = 'Are you worried about some cookie? Read our <a href="Coockie_policy.html" target="_blank">cookie policy</a>. <a href="javascript:;" class="nibirumail_agreement">I eat cookies for breakfast, so I agree!</a>';</script>
+	<script type="text/javascript" src="https://nibirumail.com/docs/scripts/nibirumail.cookie.min.js"></script> 
+</body>
+</html>
